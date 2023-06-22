@@ -6,5 +6,24 @@
     {
         "title": "hey",
         "text": "heyooo"
+    },
+    {
+        "title": "New Note",
+        "text": "new note text\n"
+    },
+    {
+        "title": "Newest Note",
+        "text": "New note ",
+        "noteId": "2b3e6eab-5296-4b6e-9c65-01226dc4891e"
+    },
+    {
+        "title": "newNote",
+        "text": "f",
+        "id": "b85f6d10-62c1-43a0-bace-c0d6bcec7bec"
+    },
+    {
+        "title": "newNOTe 2",
+        "text": "newNote",
+        "id": "17fac109-9d9c-4401-8db9-64ea10f4d85a"
     }
 ]
